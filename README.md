@@ -11,3 +11,6 @@ deploy
 ```
 appcfg.py -A <YOUR_PROJECT_ID_> update myapp/
 ```
+
+http://ebayprice-1164.appspot.com/api/keywords/nexus5
+
